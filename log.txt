@@ -1,0 +1,14 @@
+WARNING:root:warning massage
+CRITICAL:root:critical massage
+ERROR:root:error massage 
+WARNING:root:warning massage
+CRITICAL:root:critical massage
+ERROR:root:error massage 
+WARNING:root:warning massage
+CRITICAL:root:critical massage by def
+ERROR:root:error massage 
+DEBUG:root:debugg massage
+WARNING:root:warning massage
+CRITICAL:root:critical massage
+ERROR:root:error massage 
+INFO:root:info massage

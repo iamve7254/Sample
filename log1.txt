@@ -1,0 +1,16 @@
+INFO:root:A new request came 
+ERROR:root:invalid literal for int() with base 10: 'hjh'
+Traceback (most recent call last):
+  File "E:/WorkSpace/Python/Logfile2.py", line 6, in <module>
+    a=int(input("enter first value"))
+ValueError: invalid literal for int() with base 10: 'hjh'
+INFO:root:request massage compleated
+INFO:root:A new request came 
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "E:/WorkSpace/Python/Logfile2.py", line 8, in <module>
+    print("the value is:",a/b)
+ZeroDivisionError: division by zero
+INFO:root:request massage compleated
+INFO:root:A new request came 
+INFO:root:request massage compleated
